@@ -1,0 +1,68 @@
+.box1, .box2, .box3{
+    height: 500px;
+    width: 300px;
+    color: white; 
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    margin: 100px;
+}
+.box1{
+    background-color: darkorange;
+}
+
+.box2{
+    background-color: teal;
+}
+
+.box3{
+    background-color: darkslategray;
+}
+
+.box1 h1, p{
+    text-align: left;
+    padding: 10px;
+    margin-left: 20px;
+    font-family: arial Narrow;
+    font-weight: bold;
+    font-stretch: condensed;
+    line-height: 30px;
+}
+.box2 h1, p{
+    text-align: left;
+    padding: 10px;
+    margin-left: 20px;
+    font-family: arial Narrow;
+    font-weight: bold;
+    font-stretch: condensed;
+    line-height: 30px;
+}
+.box3 h1, p{
+    text-align: left;
+    padding: 10px;
+    margin-left: 20px;
+    font-family: arial Narrow;
+    font-weight: bold;
+    font-stretch: condensed;
+    line-height: 30px;
+}
+a{
+    border: 2px solid white;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.box1 a{
+    color: darkorange;
+}
+.box2 a{
+    color: teal;
+}
+.box3 a{
+    color: darkslategray;
+}
+

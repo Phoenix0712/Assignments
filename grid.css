@@ -1,0 +1,26 @@
+.box-a, .box-b, .box-c, .box-d, .box-e{
+    height:200px;
+    width: 700px;
+    text-align: center;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    margin: 100px;
+}
+.box-a{
+    background: purple;
+}
+.box-b{
+    background: darkgrey;
+}
+.box-c{
+    background: rgb(245, 241, 241);
+}
+.box-d{
+    background:rgb(241, 238, 238);
+}
+.box-e{
+    background: black;
+    color: white;
+}
